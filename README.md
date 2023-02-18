@@ -5,4 +5,4 @@ Graphs in data structures are non-linear data structures made up of a finite num
 
 
 
-<img src="tem.png" alt="Girl in a jacket" width="700" height="360">
+<img src="tem.png" alt="Girl in a jacket" width="700" height="390">
